@@ -1,0 +1,11 @@
+* qian zou
+#+begin_src lilypond :file dui-de-shi-jiandian.png
+
+\new TabStaff \relative {
+  a,16 a' <c e> a
+  a,16 a' <d f> a
+}
+#+end_src
+
+#+RESULTS:
+[[file:dui-de-shi-jiandian.png]]
